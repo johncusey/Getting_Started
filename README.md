@@ -1,2 +1,2 @@
-# NOTES
+# Getting Started
 
