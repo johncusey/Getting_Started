@@ -1,9 +1,9 @@
 # Getting Started
 
-# GitHub
-% git config --list
-% git config --global user.name "John Cusey"
-% git config --global user.email "johnjcusey@gmail.com"
+# GitHub   
+% git config --list         
+% git config --global user.name "John Cusey"   
+% git config --global user.email "johnjcusey@gmail.com"          
 
 # Notes
 ## webpack-demo-app
